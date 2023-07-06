@@ -4,7 +4,7 @@
 
 # 🤳 About me 
 
-Hello ! My name is William Pasquier and i'm an apprentice software engineer leaving in Switzerland working at **[Vaudoise Assurance](https://www.vaudoise.ch/fr)**. Currently in my 4th year of apprenticeship, i'm here to learn more about good pratice and tips on new language and framework.
+Hello ! My name is William Pasquier and i'm an apprentice software developer leaving in Switzerland working at **[Vaudoise Assurance](https://www.vaudoise.ch/fr)**. Currently in my 4th year of apprenticeship, i'm here to learn more about good pratice and tips on new language and framework.
 
 Don't hesitate to correct my public repository
 
