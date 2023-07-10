@@ -1,5 +1,5 @@
 <p align="center">
-    <a href=""><img src="https://i.imgur.com/uyQ6w5l.png" width="100%"></a>
+    <a href=""><img src="https://i.imgur.com/udRYqrH.png" width="100%"></a>
 </p>
 
 # 🤳 About me 
@@ -25,7 +25,6 @@ Website presenting myself, some project i've worked on and some of my skills. Th
 <p align="center">
     <a href="https://www.williampasquier.ch/"><img src="https://i.imgur.com/dHaHXJQ.jpg" width="75%"></a>
 </p>
-
 
 <br/>
 
