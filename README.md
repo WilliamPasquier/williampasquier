@@ -18,7 +18,14 @@ My website : ... in coming ⏳
 <br/>
 
 # 🗒️ Project i'm proud of
-...
+
+## **[Personal portfolio](https://github.com/WilliamPasquier/WilliamFolio)**
+Website presenting myself, some project i've worked on and some of my skills. This project  is made with HTML, vanilla CSS and vanilla JavaScript
+*Currently in construction*
+<p align="center">
+    <a href=""><img src="https://i.imgur.com/dHaHXJQ.jpg" width="100%"></a>
+</p>
+
 
 <br/>
 
