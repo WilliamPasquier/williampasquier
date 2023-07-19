@@ -23,7 +23,7 @@ My website : ... in coming ⏳
 Website presenting myself, some project i've worked on and some of my skills. This project  is made with HTML, vanilla CSS and vanilla JavaScript
 *Currently in construction*
 <p align="center">
-    <a href="https://www.williampasquier.ch/"><img src="https://i.imgur.com/dHaHXJQ.jpg" width="75%"></a>
+    <a href="https://www.williampasquier.ch/"><img src=["https://i.imgur.com/dHaHXJQ.jpg](https://i.imgur.com/elu8fAI.png)" width="75%"></a>
 </p>
 
 <br/>
