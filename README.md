@@ -26,6 +26,12 @@ Website presenting myself, some project i've worked on and some of my skills. Th
     <a href="https://www.williampasquier.ch/"><img src="https://i.imgur.com/elu8fAI.png" width="75%"></a>
 </p>
 
+## **Project NTX - Ecommerce website**
+Ecommerce website used to sell electronic components as an exercise project for learning languages and frameworks 
+<p align="center">
+    <img src="https://i.imgur.com/PbaTak4.png" width="75%">
+</p>
+
 <br/>
 
 # 🤺 Competences
