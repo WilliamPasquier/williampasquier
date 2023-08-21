@@ -1,5 +1,5 @@
 <p align="center">
-    <a href=""><img src="https://i.imgur.com/udRYqrH.png" width="100%"></a>
+    <a href="https://williampasquier.ch/"><img src="https://i.imgur.com/udRYqrH.png" width="100%"></a>
 </p>
 
 # 🤳 About me 
@@ -8,12 +8,15 @@ Hello ! My name is William Pasquier and i'm an apprentice software developer lea
 
 Don't hesitate to correct my public repository
 
-My website : ... in coming ⏳
+My website : [williampasquier.ch](https://williampasquier.ch/)
 
 <br/>
 
 # 📞 Contact me at
-...
+<p align="center">
+    <a href="https://discord.gg/nnpda6exjH"><img src="https://i.imgur.com/91wGSWe.png" width="50%"></a>
+    <a href="https://twitter.com/WillPasquier"><img src="https://i.imgur.com/paYIWwz.png" width="50%"></a>
+</p>
 
 <br/>
 
