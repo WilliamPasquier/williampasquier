@@ -13,9 +13,9 @@ My website : [williampasquier.ch](https://williampasquier.ch/)
 <br/>
 
 # 📞 Contact me at
-<p>
-    <a href="https://discord.gg/nnpda6exjH"><img src="https://i.imgur.com/91wGSWe.png" width="50%"></a>
-    <a href="https://twitter.com/WillPasquier"><img src="https://i.imgur.com/paYIWwz.png" width="50%"></a>
+<p align="center">
+    <a href="https://discord.gg/nnpda6exjH"><img src="https://i.imgur.com/91wGSWe.png" width="45%"></a>
+    <a href="https://twitter.com/WillPasquier"><img src="https://i.imgur.com/paYIWwz.png" width="45%"></a>
 </p>
 
 <br/>
