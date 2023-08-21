@@ -12,14 +12,6 @@ My website : [williampasquier.ch](https://williampasquier.ch/)
 
 <br/>
 
-# 📞 Contact me at
-<p align="center">
-    <a href="https://discord.gg/nnpda6exjH"><img src="https://i.imgur.com/91wGSWe.png" width="45%"></a>
-    <a href="https://twitter.com/WillPasquier"><img src="https://i.imgur.com/paYIWwz.png" width="45%"></a>
-</p>
-
-<br/>
-
 # 🗒️ Project i'm proud of
 
 ## **[WilliamFolio - Personal portfolio](https://github.com/WilliamPasquier/WilliamFolio)**
@@ -37,29 +29,10 @@ Ecommerce website used to sell electronic components as an exercise project for 
 
 <br/>
 
-# 🤺 Competences
+# 📞 Contact me at
+<p align="center">
+    <a href="https://discord.gg/nnpda6exjH"><img src="https://i.imgur.com/91wGSWe.png" width="33%"></a>
+    <a href="https://twitter.com/WillPasquier"><img src="https://i.imgur.com/paYIWwz.png" width="33%"></a>
+</p>
 
 <br/>
-
-## 🫡 Skills
-...
-
-<br/>
-
-## 💻 Software
-...
-
-<br/>
-
-## 📝 Programming language
-...
-
-<br/>
-
-## ⚙️ Framework
-...
-
-<br/>
-
-# 🗣️ Language
-...
