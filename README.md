@@ -18,7 +18,7 @@ My website : [williampasquier.ch](https://williampasquier.ch/)
 Website presenting myself, some project i've worked on and some of my skills. This project  is made with HTML, vanilla CSS and vanilla JavaScript
 *Currently in construction*
 <p align="center">
-    <a href="https://www.williampasquier.ch/"><img src="https://i.imgur.com/elu8fAI.png" width="75%"></a>
+    <a href="https://www.williampasquier.ch/"><img src="https://i.imgur.com/qtgmUDX.png" width="75%"></a>
 </p>
 
 ## **[Project NTX - Ecommerce website](https://github.com/WilliamPasquier/project-ntx)**
