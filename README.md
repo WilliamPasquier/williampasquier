@@ -27,7 +27,7 @@ Ecommerce website used to sell electronic components as an exercise project for 
     <img src="https://i.imgur.com/PbaTak4.png" width="75%" />
 </p>
 
-## **Easy League**
+## **Easy League - multi-threading school project**
 School project for the multi-threading course. A website for retrieving League Of Legends account data
 <p align="center">
     <img src="https://i.imgur.com/eldM5Bj.png" width="75%" />
