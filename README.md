@@ -18,17 +18,20 @@ My website : [williampasquier.ch](https://williampasquier.ch/)
 Website presenting myself, some project i've worked on and some of my skills. This project  is made with HTML, vanilla CSS and vanilla JavaScript
 *Currently in construction*
 <p align="center">
-    <a href="https://www.williampasquier.ch/"><img src="" width="75%"></a>
+    <a href="https://www.williampasquier.ch/"><img src="https://imgur.com/qtgmUDX" width="75%" /></a>
 </p>
 
 ## **[Project NTX - Ecommerce website](https://github.com/WilliamPasquier/project-ntx)**
 Ecommerce website used to sell electronic components as an exercise project for learning languages and frameworks 
 <p align="center">
-    <img src="https://i.imgur.com/PbaTak4.png" width="75%">
+    <img src="https://i.imgur.com/PbaTak4.png" width="75%" />
 </p>
 
 ## **Easy League**
 School project for the multi-threading course. A website for retrieving League Of Legends account data
+<p align="center">
+    <img src="https://imgur.com/a/n4zEEKI" width="75%" />
+</p>
 
 <br/>
 
