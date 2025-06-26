@@ -33,6 +33,19 @@ School project for the multi-threading course. A website for retrieving League O
     <img src="https://i.imgur.com/eldM5Bj.png" width="75%" />
 </p>
 
+## Kairos - Web application school project
+School group project to learn how to create a full-stack web application. An application to manage your tasks and your studies session
+<p align="center">
+    <img src="https://i.imgur.com/NMZnzo6.png" width="75%" />
+</p>
+
+## Mercure - Web e-commerce school project
+School group project to learn how to create a full-stack web application. An e-commerce application to sell stuff for animals.
+
+<p align="center">
+    <img src="https://i.imgur.com/DORxgoo.png" width="75%" />
+</p>
+
 <br/>
 
 # 📞 Contact me at
