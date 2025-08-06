@@ -27,19 +27,19 @@ Ecommerce website used to sell electronic components as an exercise project for 
     <img src="https://i.imgur.com/PbaTak4.png" width="75%" />
 </p>
 
-## **Easy League - multi-threading school project**
+## **Easy League - multi-threading _(school project)_**
 School project for the multi-threading course. A website for retrieving League Of Legends account data
 <p align="center">
     <img src="https://i.imgur.com/eldM5Bj.png" width="75%" />
 </p>
 
-## Kairos - Web application school project
+## **Kairos - Web application _(school project)_**
 School group project to learn how to create a full-stack web application. An application to manage your tasks and your studies session
 <p align="center">
     <img src="https://i.imgur.com/NMZnzo6.png" width="75%" />
 </p>
 
-## Mercure - Web e-commerce school project
+## **Mercure - Web e-commerce _(school project)_**
 School group project to learn how to create a full-stack web application. An e-commerce application to sell stuff for animals.
 
 <p align="center">
